@@ -1,0 +1,37 @@
+body{
+    background-image: url(./image/main-qimg-9d3dab264f4f438ba817c5658f72b4f4-lq.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    background-color: aquamarine;
+    text-align: center;
+    font-family: sans-serif;
+    text-shadow: 10px;
+}
+.q{
+    text-align: end;
+    color: brown;
+    text-decoration: overline dotted;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: rgba(44, 88, 48, 0.932);
+    text-decoration: dotted underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.k img{
+   border: 2px solid;
+   width: 250px;
+   height: 250px;
+   box-shadow: 5px 5px 5px black;
+   object-fit: fill;
+   margin-bottom: 30px;
+}
+.l img{
+    border: 2px solid;
+   width: 250px;
+   height: 250px;
+   box-shadow: 5px 5px 5px black;
+   object-fit: contain;
+}
